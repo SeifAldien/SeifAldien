@@ -5,7 +5,7 @@
 
 
 <p> ⚡ Computer science fresh graduate with a focus on mastering software development. Driven by a passion for crafting efficient solutions and exploring the endless possibilities in software. Excited about the journey of continuous learning and growth in the dynamic field of technology. </p>
-<p> Currently working as a Software Engineer Intern at Konecta. </p>
+<p> Currently working as a Software Engineer Intern at Fawry. </p>
 <p align="left">
 </p>
 
